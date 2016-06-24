@@ -1,5 +1,6 @@
 from math import sqrt
 
+
 def generate_fibonacci(maximum):
     sequence = [0]
     new_num = 1
